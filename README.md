@@ -32,7 +32,8 @@ Dartha Sherell - Town leader of Bryn Shander.
 <details>
   <summary>8/24/2024 Session Notes</summary>
 
-Session Notes 8/24/2024:
+### Session Notes 8/24/2024:
+
 The party got a letter from Serissa that said there is an issue with a bunch of giants, that we would be good adventurers to help, etc.. It also told us to meet up with a contact who would teleport us to the beginning of the quest. 
 
 Harbin told us that we would meet our last party member at Gelden Stag Rest. Harbin also gave us a letter to give to the leader of Bryn Shander. 
@@ -48,7 +49,7 @@ The party decided to go find the sherrif so that we can deliver the news of his 
 We went to the Gelden Stag for accomodations. We got two rooms. We decided to commit mail fraud and open the letter that Harbin gave us for the town's leader, Dartha Sherell. Faethana used slight of hand to open the evnelope without breaking the seal. The letter said that the town's leader isn't doing a very good job, that there's too many orcs around, and generally that Dartha is doing a shit job. 
 
 
-Summary: 
+###Summary: 
 The party embarked on a new adventure after receiving a letter from the frost giant Serissa, who sought their assistance in dealing with a giant-related crisis. Following Serissa's instructions, they met with Harbin Wester, the leader of Phaldin, who provided them with crucial information about their final party member and a sealed letter addressed to the leader of Bryn Shander. With a generous sum of starting funds and a magical teleport from Iroko's cousin Zephyrus, the party found themselves in Bryn Shander, a bustling town renowned for its trade and fortified walls.
 
 Their first act in Bryn Shander was to locate the sheriff and deliver the somber news of his sister's demise. The sheriff, devastated by the loss, suggested they seek rest at the Gelden Stag Rest. The party took his advice and secured accommodations at the inn.
@@ -59,4 +60,29 @@ Curiosity piqued, they decided to open the sealed letter from Harbin. Using Faet
 </details>
 
 ---
+
+<details>
+  <summary>Sample Notes Snippet</summary>
+
+### Session Notes :
+
+
+
+###Summary: 
+
+
+
+</details>
+
+---
+
+
+
+
+
+
+
+
+
+
 
