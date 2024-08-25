@@ -49,7 +49,7 @@ The party decided to go find the sherrif so that we can deliver the news of his 
 We went to the Gelden Stag for accomodations. We got two rooms. We decided to commit mail fraud and open the letter that Harbin gave us for the town's leader, Dartha Sherell. Faethana used slight of hand to open the evnelope without breaking the seal. The letter said that the town's leader isn't doing a very good job, that there's too many orcs around, and generally that Dartha is doing a shit job. 
 
 
-###Summary: 
+### Summary: 
 
 The party embarked on a new adventure after receiving a letter from the frost giant Serissa, who sought their assistance in dealing with a giant-related crisis. Following Serissa's instructions, they met with Harbin Wester, the leader of Phaldin, who provided them with crucial information about their final party member and a sealed letter addressed to the leader of Bryn Shander. With a generous sum of starting funds and a magical teleport from Iroko's cousin Zephyrus, the party found themselves in Bryn Shander, a bustling town renowned for its trade and fortified walls.
 
