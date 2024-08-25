@@ -50,6 +50,7 @@ We went to the Gelden Stag for accomodations. We got two rooms. We decided to co
 
 
 ###Summary: 
+
 The party embarked on a new adventure after receiving a letter from the frost giant Serissa, who sought their assistance in dealing with a giant-related crisis. Following Serissa's instructions, they met with Harbin Wester, the leader of Phaldin, who provided them with crucial information about their final party member and a sealed letter addressed to the leader of Bryn Shander. With a generous sum of starting funds and a magical teleport from Iroko's cousin Zephyrus, the party found themselves in Bryn Shander, a bustling town renowned for its trade and fortified walls.
 
 Their first act in Bryn Shander was to locate the sheriff and deliver the somber news of his sister's demise. The sheriff, devastated by the loss, suggested they seek rest at the Gelden Stag Rest. The party took his advice and secured accommodations at the inn.
